@@ -1,0 +1,23 @@
+#login .logo-container {
+    width: 100% !important ;
+    height: 43px;
+}
+
+.logo-company-name {
+    color:#fff;
+    margin-left:10px;
+    font-size:24px;
+    vertical-align: bottom;
+}
+
+.landing-page {
+    background-repeat: no-repeat;
+    background-position: relative;
+    background-size: cover;
+    margin-top: -29px;
+    margin-bottom: 29px;
+}
+
+#login {
+    margin-top: 60px;
+}

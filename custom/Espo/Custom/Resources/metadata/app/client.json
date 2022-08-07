@@ -1,0 +1,18 @@
+{
+    "scriptList": [
+       "__APPEND__",
+      "client/custom/lib/js/landingPage.js"
+    ],
+    "developerModeScriptList": [
+       "__APPEND__",
+      "client/custom/lib/js/landingPage.js"
+    ],
+     "cssList": [
+        "__APPEND__",
+       "client/custom/lib/css/landingPage.css"              
+    ],
+    "developerModeCssList": [
+        "__APPEND__",
+       "client/custom/lib/css/landingPage.css"              
+    ]
+}

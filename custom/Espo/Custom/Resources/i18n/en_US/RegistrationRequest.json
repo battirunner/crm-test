@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "firstName": "FirstName",
+        "lastName": "LastName",
+        "emailAddress": "EmailAddress",
+        "cellPhone": "CellPhone"
+    },
+    "links": [],
+    "labels": {
+        "Create RegistrationRequest": "Create RegistrationRequest"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "scopeNames": {
+        "NewRegisteredUser": "New Registered user",
+        "RegistrationRequest": "RegistrationRequest"
+    },
+    "scopeNamesPlural": {
+        "NewRegisteredUser": "New Registered user",
+        "RegistrationRequest": "RegistrationRequest"
+    }
+}
